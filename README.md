@@ -5,7 +5,7 @@
 - Importing Necessary Libraries
 - Creating the Dataset
 - Visualizing the Dataset
-- Normalizing the Input Data
+- Defining Function for Normalizing the Input Data
 - Defining Sigmoid Function
 - Defining the Cost/Loss Function - [Log-Loss Function]
 - Defining Gradient Descent
